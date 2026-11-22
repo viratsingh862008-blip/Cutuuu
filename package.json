@@ -1,0 +1,12 @@
+{
+  "name": "cutuuu",
+  "version": "1.0.0",
+  "description": "MAN JAOOO 💗 — For Akankshuuu",
+  "type": "module",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
